@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555228660586",
+    "project_id": "fluttercaller",
+    "storage_bucket": "fluttercaller.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555228660586:android:ca2fed147434c5dd8cdb13",
+        "android_client_info": {
+          "package_name": "com.example.flutter_caller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGGNY24IVnYf6ivWqlZyYzCR7Xp8JMLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
